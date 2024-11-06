@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730860219 source:d:\github\svn_cpp\svn_test\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+
